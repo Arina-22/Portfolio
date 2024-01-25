@@ -35,7 +35,7 @@ html {
 body {
     background-color: #FFFDF8;
     color: #101010;
-    font-family: ClashDisplay-Variable, Tenor Sans, sans-serif;
+    font-family: ClashDisplay-Variable, Inter, sans-serif;
     font-weight: 400;
 }
 
@@ -121,7 +121,7 @@ img {
     color: #fff;
     font-size: 1.5vw;
     text-transform: uppercase;
-    font-family: ClashDisplay-Variable, Tenor Sans, sans-serif;
+    font-family: ClashDisplay-Variable, Inter, sans-serif;
 }
 
 .main__button-wrapper:hover,
