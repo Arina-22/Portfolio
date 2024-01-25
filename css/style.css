@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'Clash Display Variable';
-    src: url("Fonts/ClashDisplay-Variable.ttf") format('ttf');
+    font-family: 'Clash';
+    src: url('../Fonts/ClashDisplay-Variable.ttf') format('ttf');
 }
 
 * {
@@ -33,7 +33,7 @@ html {
 body {
     background-color: #FFFDF8;
     color: #101010;
-    font-family: Clash Display Variable, Inter Tight, sans-serif;
+    font-family: Clash, Inter, sans-serif;
 }
 
 a {
@@ -245,7 +245,7 @@ img {
     color: #fff;
     font-size: 1.5vw;
     text-transform: uppercase;
-    font-family: Clash Display Variable, Inter Tight, sans-serif;
+    font-family: Clash, Inter, sans-serif;
 }
 
 .services {
@@ -358,7 +358,7 @@ h2>span {
 .work__title {
     font-weight: 500;
     font-size: clamp(24px, 2.6vw, 145px);
-    font-family: Clash Display Variable, Inter Tight, sans-serif;
+    font-family: Clash, Inter, sans-serif;
 }
 
 .work__description {
